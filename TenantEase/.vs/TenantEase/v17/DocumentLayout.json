@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\TenantEase\\TenantEase\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{373C2C5D-C841-4BA3-A485-20084FEEBEA4}|TenantEase\\TenantEase.csproj|e:\\tenantease\\tenantease\\tenantease\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{373C2C5D-C841-4BA3-A485-20084FEEBEA4}|TenantEase\\TenantEase.csproj|solutionrelative:tenantease\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\TenantEase\\TenantEase\\TenantEase\\Migrations\\20241108120556_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TenantEase\\Migrations\\20241108120556_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{373C2C5D-C841-4BA3-A485-20084FEEBEA4}|TenantEase\\TenantEase.csproj|e:\\tenantease\\tenantease\\tenantease\\models\\tenanteasedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{373C2C5D-C841-4BA3-A485-20084FEEBEA4}|TenantEase\\TenantEase.csproj|solutionrelative:tenantease\\models\\tenanteasedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{373C2C5D-C841-4BA3-A485-20084FEEBEA4}|TenantEase\\TenantEase.csproj|e:\\tenantease\\tenantease\\tenantease\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{373C2C5D-C841-4BA3-A485-20084FEEBEA4}|TenantEase\\TenantEase.csproj|solutionrelative:tenantease\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20241108120556_initial.cs",
+              "DocumentMoniker": "E:\\TenantEase\\TenantEase\\TenantEase\\Migrations\\20241108120556_initial.cs",
+              "RelativeDocumentMoniker": "TenantEase\\Migrations\\20241108120556_initial.cs",
+              "ToolTip": "E:\\TenantEase\\TenantEase\\TenantEase\\Migrations\\20241108120556_initial.cs",
+              "RelativeToolTip": "TenantEase\\Migrations\\20241108120556_initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T12:05:56.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TenantEaseDBContext.cs",
+              "DocumentMoniker": "E:\\TenantEase\\TenantEase\\TenantEase\\Models\\TenantEaseDBContext.cs",
+              "RelativeDocumentMoniker": "TenantEase\\Models\\TenantEaseDBContext.cs",
+              "ToolTip": "E:\\TenantEase\\TenantEase\\TenantEase\\Models\\TenantEaseDBContext.cs",
+              "RelativeToolTip": "TenantEase\\Models\\TenantEaseDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T12:03:51.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\TenantEase\\TenantEase\\TenantEase\\Program.cs",
+              "RelativeDocumentMoniker": "TenantEase\\Program.cs",
+              "ToolTip": "E:\\TenantEase\\TenantEase\\TenantEase\\Program.cs",
+              "RelativeToolTip": "TenantEase\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAgwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T12:02:29.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\TenantEase\\TenantEase\\TenantEase\\appsettings.json",
+              "RelativeDocumentMoniker": "TenantEase\\appsettings.json",
+              "ToolTip": "E:\\TenantEase\\TenantEase\\TenantEase\\appsettings.json",
+              "RelativeToolTip": "TenantEase\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-08T12:01:24.589Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
